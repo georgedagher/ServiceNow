@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Idea_Implemented</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-05 14:36:08</sys_created_on>
+        <sys_id>d02b7f77db82230077b7dd30cf96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Idea Implemented</sys_name>
+        <sys_package display_value="Innovate" source="x_235779_innovate">dd02b737db42230077b7dd30cf961904</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">dd02b737db42230077b7dd30cf961904</sys_scope>
+        <sys_update_name>sys_ui_view_d02b7f77db82230077b7dd30cf96199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-05 14:36:08</sys_updated_on>
+        <title>Idea Implemented</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
